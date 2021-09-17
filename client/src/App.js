@@ -20,7 +20,7 @@ import Success from './pages/Success';
 
 // import Provider making redux store available to any nested components
 import { Provider } from 'react-redux';
-import store from './redux/store';
+import store from './app/store';
 
 
 const httpLink = createHttpLink({
