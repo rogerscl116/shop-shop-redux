@@ -4,12 +4,12 @@
 <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow" alt="MIT license badge"/></a>
 
 ## Description
+Shop Shop Redux is an e-commerce application that allows users to shop for various items, add items to a shopping cart, manage the shopping cart by increasing and decreasing quantities, checkout purchases, and view their order history. This application was refactored to use Redux for global state control, paired with a React front end, Node.js and Express.js back end, MongoDB database, and a Stripe payment platform.
 
 Deployed application on heroku: https://shop-shop-redux358104.herokuapp.com/
 
 ### Screenshots
-![Shop Shop Home]()
-
+![Shop Shop Home](./client/public/images/shop-shop-home.jpg)
 
 ## Table of Contents
  * [Installation](#installation)
