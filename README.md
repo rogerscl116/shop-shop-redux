@@ -5,7 +5,7 @@
 
 ## Description
 
-Deployed application on heroku: https://shop-shop03718349.herokuapp.com/
+Deployed application on heroku: https://shop-shop-redux358104.herokuapp.com/
 
 ### Screenshots
 ![Shop Shop Home]()
@@ -21,7 +21,7 @@ Deployed application on heroku: https://shop-shop03718349.herokuapp.com/
 Clone this repository and enter `npm install` in the terminal to install the necessary dependencies.
    
 ## Usage
-
+Enter `npm run develop` to start the development server on `http://localhost:3000/` and use GraphQL at `http://localhost:3001/graphql`.
 
 ## Contributing
 Charity Rogers
